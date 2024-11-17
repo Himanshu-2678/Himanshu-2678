@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="AI/ML Enthusiast Image" style="max-width: 100%; height: 250px;" />
+  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="AI/ML Enthusiast Image" style="max-width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">Hey 👋, I'm Himanshu Yadav</h1>
