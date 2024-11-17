@@ -1,12 +1,23 @@
+<div align="center">
+  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="AI/ML Enthusiast Image" style="max-width: 100%; height: 250px;" />
+</div>
+
 <h1 align="center">Hey 👋, I'm Himanshu Yadav</h1>
-<h2 align="center">|🤖 Exploring the Boundaries of AI/ML/DS with Code and Curiosity|</h2>
+<h2 align="center">|🤖 AI/ML Enthusiast|</h2>
+
+
 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/himanshuy26/" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" alt="Connect with me" width="50" />
+    <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" width="50" alt = "Linkedin" />
   </a>
-  <p><a>Connect with Me</a></p>
+  <a href="https://www.kaggle.com/himanshu26789" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" width="100" alt = "Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/Himanshu_2678/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" width="50" alt = "LeetCode"/>
+  </a>
 </div>
 
 
@@ -23,40 +34,52 @@
 
 
 
+
+
 <h2 align="left">💻 Languages and Tools </h2>
-<p align="left"> 
-  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cms-assets.tutsplus.com/uploads/users/769/posts/15965/preview_image/flask.png" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-%2333A1C9.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" style="max-width: 100%;" />
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Numpy-%2312B3B0.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="max-width: 100%;" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-%2314989D.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="max-width: 100%;" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-%232F80C5.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="max-width: 100%;" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Seaborn-%23444493.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="max-width: 100%;" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-%230A2D4F.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" style="max-width: 100%;" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B00.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-%234E7FC7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-%23FFD700.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" style="max-width: 100%;" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scikit--learn-%23FF6347.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-%232A3B46.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux" style="max-width: 100%;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-%23D44D31.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;" />
+  </a>
 </p>
+
 
 
 
