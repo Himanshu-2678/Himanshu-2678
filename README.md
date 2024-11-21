@@ -24,11 +24,10 @@
 <h2>About Me 🏄🏼</h2>
 <p>I am an AI/ML enthusiast with a passion for exploring the potential of artificial intelligence and machine learning. Currently, I am focused on deepening my knowledge of algorithms, data science, and building intelligent systems that solve real-world problems.</p>
 
-- 🔭**Current Project:** I am working on a Project-"E-Commerce Analytics tool" to provide a data driven solution which can provide Actionable insights.
+<!-- - 🔭**Current Project:** I am working on a Project-"E-Commerce Analytics tool" to provide a data driven solution which can provide Actionable insights. -->
+- 🌱**Upskilling:** Being an AI/ML Enthusiast, i am currently learning Machine Learning Algorithms to build intelligent solutions/systems for the future.
 
 - 👯**Collaborations & Contributaions:** I am open for collaborating and contributing to AI/ML/DS projects to expand my knowledge, solve real-world problems, and create impactful solutions that drive innovation."
-
-- 🌱**Upskilling:** Being an AI/ML Enthusiast, i am currently learning Machine Learning Algorithms to build intelligent solutions/systems for the future
 
 - ⚡**Fun fact about Tech:** The First Computer Bug Was a Real Bug 🪳 In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction. This incident led to the term "computer bug.
 
