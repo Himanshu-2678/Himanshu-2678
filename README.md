@@ -19,7 +19,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" width="50" alt="LeetCode"/>
   </a>
   <a href="https://medium.com/@radhekrishna8267" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="50" alt="Medium"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40" alt="Medium" />
   </a>
 </div>
 
