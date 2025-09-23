@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Himanshu 👋🏻 👨🏻‍💻 </h1>
 
 <div align="center">
-  <img src="https://github.com/Himanshu-2678/Himanshu-2678/blob/main/11zon_cropped%20(1).png" 
+  <img src="https://github.com/Himanshu-2678/Himanshu-2678/blob/main/Add%20a%20heading%20(4)%20(1).png" 
        alt="AI/ML Enthusiast Image" 
        style="max-width: 100%; height: auto;" />
 </div>
