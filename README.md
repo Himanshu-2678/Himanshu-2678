@@ -1,32 +1,9 @@
 <div align="center">
-  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="AI/ML Enthusiast Image" style="max-width: 100%; height: auto;" />
+  <img src="https://your-canva-direct-link-to-image.png" alt="AI/ML Enthusiast Image" style="max-width: 100%; height: auto;" />
 </div>
 
-<h1 align="center">Hey 👋, I'm Himanshu Yadav</h1>
-<h2 align="center">|🤖 AI/ML Enthusiast|</h2>
+<h1 align="center">Hey 👋, I'm Himanshu </h1>
 
-
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/himanshuy26/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/himanshu26789" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168474.png" width="100" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/u/Himanshu_2678/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" width="50" alt="LeetCode"/>
-  </a>
-  <a href="https://medium.com/@radhekrishna8267" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40" alt="Medium" />
-  </a>
-</div>
-
-
-
-
-<h2>About Me 🏄🏼</h2>
 <p>I am an AI/ML enthusiast with a passion for exploring the potential of artificial intelligence and machine learning. Currently, I am focused on deepening my knowledge of algorithms, data science, and building intelligent systems that solve real-world problems.</p>
 
 <!-- - 🔭**Current Project:** I am working on a Project-"E-Commerce Analytics tool" to provide a data driven solution which can provide Actionable insights. -->
