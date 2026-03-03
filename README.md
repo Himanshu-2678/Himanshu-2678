@@ -6,13 +6,12 @@
        style="max-width: 100%; height: auto;" />
 </div>
 
-<p>I'm an AI/ML enthusiast passionate about building things that apply artificial intelligence to real-world problems, especially in the NLP domain. I enjoy experimenting with transformers, language models, and creating tools that make data and insights more accessible. Some technologies I like working on Python, Data related work, PyTorch & Tensorflow, Hugging Face Transformers, etc. Through my projects, I aim to explore the frontiers of AI while delivering practical solutions that have real impact.</p>
+<p>
+I work on NLP and LLM-based applications, focusing on building practical AI tools rather than just training models. Most of my work sits at the intersection of language models and backend systems — turning model outputs into structured, reliable, and deployable software. I’m particularly interested in how modern transformers can be integrated into real-world applications.
+</p>
 
 
 ### Find me around :
 - My Personal Portfolio Website: [Portfolio](https://himanshu-2678.github.io/) 🌐
 - Sharing my updates on [LinkedIn](https://www.linkedin.com/in/himanshuy26/) 📋
-- My Tech Blogs on [Medium](https://medium.com/@radhekrishna8267) ✍🏽
-
-
-
+- My Tech Blogs on [Substack](https://substack.com/@himanshuyadav7) ✍🏽
