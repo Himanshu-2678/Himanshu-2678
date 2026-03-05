@@ -7,7 +7,9 @@
 </div>
 
 <p>
-I work on NLP and LLM-based applications, focusing on building practical AI tools rather than just training models. Most of my work sits at the intersection of language models and backend systems — turning model outputs into structured, reliable, and deployable software. I’m particularly interested in how modern transformers can be integrated into real-world applications.
+I build AI systems at the intersection of language models and backend engineering - from fine-tuning and evaluation to deployment and observability.
+Most of my work focuses on NLP, MLOps, and making ML systems production-ready: structured outputs, async pipelines, monitoring, and real deployments.
+Currently exploring ML Engineering and AI Engineering through projects that go from model to infrastructure.
 </p>
 
 
