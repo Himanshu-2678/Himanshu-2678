@@ -1,11 +1,22 @@
+# Hey there!
 
 
 <p>
-I build AI systems at the intersection of language models and backend engineering - from fine-tuning and evaluation to deployment and observability.
-Most of my work focuses on NLP, MLOps, and making ML systems production-ready: structured outputs, async pipelines, monitoring, and real deployments.
-Currently exploring ML Engineering and AI Engineering through projects that go from model to infrastructure.
+I’m a Computer Science undergrad, who builds practical AI/ML systems.
+
+Most of my work focuses on NLP systems and LLM-based applications, with an emphasis on 
+how models interact with real infrastructure - async pipelines, structured outputs, 
+evaluation workflows, and deployment.
+
+I’m particularly interested in the engineering side of machine learning: turning models 
+into systems that can run reliably and be evaluated, monitored, and improved over time.
 </p>
 
+## Currently Working On
+
+### **DuelMind** 
+- A multi-LLM deliberation system that analyzes model reasoning through claim extraction, conflict detection, and consensus tracking.
+- Exploring how different LLMs reason and converge toward a synthesized conclusion.
 
 ### Find me around :
 - My Personal Portfolio Website: [Portfolio](https://himanshu-2678.github.io/) 🌐
