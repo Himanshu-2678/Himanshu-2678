@@ -1,8 +1,12 @@
-# Hey there!
+# About Me
+
+<p align="center">
+  <img src="Main_Banner (1).png" width="100%" alt="Banner">
+</p>
 
 
 <p>
-I’m a Computer Science undergrad, who builds practical AI/ML systems.
+I’m a Computer Science undergrad who builds practical AI/ML systems.
 
 Most of my work focuses on NLP systems and LLM-based applications, with an emphasis on 
 how models interact with real infrastructure - async pipelines, structured outputs, 
