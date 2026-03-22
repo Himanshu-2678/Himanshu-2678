@@ -18,9 +18,8 @@ into systems that can run reliably and be evaluated, monitored, and improved ove
 
 ## Currently Working On
 
-### **DuelMind** 
-- A multi-LLM deliberation system that analyzes model reasoning through claim extraction, conflict detection, and consensus tracking.
-- Exploring how different LLMs reason and converge toward a synthesized conclusion.
+### Transformer (In Progress)
+Building a full encoder–decoder Transformer from scratch based on the paper - “Attention Is All You Need”, implementing self-attention, positional encoding, and training dynamics without high-level libraries.
 
 ### Find me around :
 - My Personal Portfolio Website: [Portfolio](https://himanshu-2678.github.io/) 🌐
