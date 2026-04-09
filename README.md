@@ -1,7 +1,7 @@
 # About Me
 
 <p align="center">
-  <img src="Main_Banner (4).png" width="100%" alt="Banner">
+  <img src="assets/Main_Banner (4).png" width="100%" alt="Banner">
 </p>
 
 
