@@ -6,20 +6,16 @@
 
 
 <p>
-I’m a Computer Science undergrad who builds practical AI/ML systems.
+I’m a Computer Science undergrad working on AI systems and machine learning, with a focus on how models behave and how they integrate into real applications.
 
-Most of my work focuses on NLP systems and LLM-based applications, with an emphasis on 
-how models interact with real infrastructure like async pipelines, structured outputs, 
-evaluation workflows, and deployment.
-
-I’m particularly interested in the engineering side of machine learning: turning models 
-into systems that can run reliably and be evaluated, monitored, and improved over time.
+My work includes building LLM pipelines, experimenting with model behavior through structured analysis, and developing data workflows for training, evaluation, and iteration.
 </p>
 
 ## Currently Working On
 
 ### Transformer (In Progress)
-Building a full encoder–decoder Transformer from scratch based on the paper - “Attention Is All You Need”, implementing self-attention, positional encoding, and training dynamics without high-level libraries.
+Building a full encoder–decoder Transformer from scratch based on the paper -
+“Attention Is All You Need”, implementing self-attention, positional encoding, and training dynamics without high-level libraries.
 
 ### Find me around :
 - My Personal Portfolio Website: [Portfolio](https://himanshu-2678.github.io/) 🌐
